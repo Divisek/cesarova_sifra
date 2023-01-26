@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "cesarova_sifra/1.0.0": {
+        "runtime": {
+          "cesarova_sifra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cesarova_sifra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\ou7pc16\Desktop\cesarova_sifra\cesarova_sifra\bin\Debug\netcoreapp3.1\cesarova_sifra.exe
+C:\Users\ou7pc16\Desktop\cesarova_sifra\cesarova_sifra\bin\Debug\netcoreapp3.1\cesarova_sifra.deps.json
+C:\Users\ou7pc16\Desktop\cesarova_sifra\cesarova_sifra\bin\Debug\netcoreapp3.1\cesarova_sifra.runtimeconfig.json
+C:\Users\ou7pc16\Desktop\cesarova_sifra\cesarova_sifra\bin\Debug\netcoreapp3.1\cesarova_sifra.runtimeconfig.dev.json
+C:\Users\ou7pc16\Desktop\cesarova_sifra\cesarova_sifra\bin\Debug\netcoreapp3.1\cesarova_sifra.dll
+C:\Users\ou7pc16\Desktop\cesarova_sifra\cesarova_sifra\bin\Debug\netcoreapp3.1\cesarova_sifra.pdb
+C:\Users\ou7pc16\Desktop\cesarova_sifra\cesarova_sifra\obj\Debug\netcoreapp3.1\cesarova_sifra.csproj.AssemblyReference.cache
+C:\Users\ou7pc16\Desktop\cesarova_sifra\cesarova_sifra\obj\Debug\netcoreapp3.1\cesarova_sifra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ou7pc16\Desktop\cesarova_sifra\cesarova_sifra\obj\Debug\netcoreapp3.1\cesarova_sifra.AssemblyInfoInputs.cache
+C:\Users\ou7pc16\Desktop\cesarova_sifra\cesarova_sifra\obj\Debug\netcoreapp3.1\cesarova_sifra.AssemblyInfo.cs
+C:\Users\ou7pc16\Desktop\cesarova_sifra\cesarova_sifra\obj\Debug\netcoreapp3.1\cesarova_sifra.csproj.CoreCompileInputs.cache
+C:\Users\ou7pc16\Desktop\cesarova_sifra\cesarova_sifra\obj\Debug\netcoreapp3.1\cesarova_sifra.dll
+C:\Users\ou7pc16\Desktop\cesarova_sifra\cesarova_sifra\obj\Debug\netcoreapp3.1\cesarova_sifra.pdb
+C:\Users\ou7pc16\Desktop\cesarova_sifra\cesarova_sifra\obj\Debug\netcoreapp3.1\cesarova_sifra.genruntimeconfig.cache

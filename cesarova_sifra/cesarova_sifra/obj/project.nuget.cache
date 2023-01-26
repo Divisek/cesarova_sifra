@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8i1mMqRAk0DXrK8yhiKdKjtGanEHfmtmPyd4lhHLug2ZW//U7t+ISiKIEGOS7tXWIpHwd/AzSGPMqqPh64mRLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ou7pc16\\Desktop\\cesarova_sifra\\cesarova_sifra\\cesarova_sifra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ou7pc16\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
